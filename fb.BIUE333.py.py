@@ -73,7 +73,7 @@ for xd in range(10000):
     d='/GoBrowser/'
     e='1.6.0.'
     f=random.randrange(1, 99)
-    uaku2=(f'{a}{b}{c}{d}{e}{f}')
+    uaku2=('{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
     
 def __init__(self):
